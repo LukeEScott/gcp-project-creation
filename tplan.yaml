@@ -1,0 +1,1189 @@
+module.interview_conor.module.project_creation.random_id.id: Refreshing state... [id=DYqmmvwbAIA]
+module.example.module.project_creation.random_id.id: Refreshing state... [id=wipXurbBmVc]
+module.interview_hannah.module.project_creation.random_id.id: Refreshing state... [id=D7yTbEKvnD4]
+module.interview_conor.module.project_creation.google_project_service.iam: Refreshing state... [id=interview-0d8aa69afc1b0080/iam.googleapis.com]
+module.interview_conor.module.project_creation.google_project_iam_member.job_user["alexander.conor12@gmail.com"]: Refreshing state... [id=interview-0d8aa69afc1b0080/roles/bigquery.jobUser/user:alexander.conor12@gmail.com/expires_on_2022-04-26//request.time < timestamp("2022-04-26T00:00:00Z")]
+module.interview_conor.module.bigquery.google_bigquery_dataset.dataset: Refreshing state... [id=projects/interview-0d8aa69afc1b0080/datasets/interview_data]
+module.interview_hannah.module.project_creation.google_project.project: Refreshing state... [id=projects/interview-0fbc936c42af9c3e]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["James.Lee@rvu.co.uk"]: Refreshing state... [id=projects/interview-0d8aa69afc1b0080/datasets/interview_data/roles/bigquery.dataOwner/user:james.lee@rvu.co.uk]
+module.interview_conor.module.project_creation.google_project_iam_member.job_user["Brendan.Dunn@rvu.co.uk"]: Refreshing state... [id=interview-0d8aa69afc1b0080/roles/bigquery.jobUser/user:brendan.dunn@rvu.co.uk/expires_on_2022-04-26//request.time < timestamp("2022-04-26T00:00:00Z")]
+module.interview_hannah.module.bigquery.google_bigquery_table.view["sessions"]: Refreshing state... [id=projects/interview-0fbc936c42af9c3e/datasets/interview_data/tables/sessions]
+module.interview_hannah.module.project_creation.google_project_iam_member.job_user["hannah.carroll122@gmail.com"]: Refreshing state... [id=interview-0fbc936c42af9c3e/roles/bigquery.jobUser/user:hannah.carroll122@gmail.com/expires_on_2022-04-26//request.time < timestamp("2022-04-26T00:00:00Z")]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["derwin.brennan@rvu.co.uk"]: Refreshing state... [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:derwin.brennan@rvu.co.uk]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["James.Lee@rvu.co.uk"]: Refreshing state... [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:james.lee@rvu.co.uk]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["derwin.brennan@rvu.co.uk"]: Refreshing state... [id=projects/interview-0fbc936c42af9c3e/datasets/interview_data/roles/bigquery.dataOwner/user:derwin.brennan@rvu.co.uk]
+module.interview_conor.module.bigquery.google_bigquery_table.view["savings"]: Refreshing state... [id=projects/interview-0d8aa69afc1b0080/datasets/interview_data/tables/savings]
+module.interview_hannah.module.project_creation.google_project_service.iam: Refreshing state... [id=interview-0fbc936c42af9c3e/iam.googleapis.com]
+module.interview_hannah.module.project_creation.google_project_iam_member.job_user["kasia.kowalczyk@rvu.co.uk"]: Refreshing state... [id=interview-0fbc936c42af9c3e/roles/bigquery.jobUser/user:kasia.kowalczyk@rvu.co.uk/expires_on_2022-04-26//request.time < timestamp("2022-04-26T00:00:00Z")]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["Brendan.Dunn@rvu.co.uk"]: Refreshing state... [id=projects/interview-0d8aa69afc1b0080/datasets/interview_data/roles/bigquery.dataOwner/user:brendan.dunn@rvu.co.uk]
+module.interview_conor.module.project_creation.google_project_iam_member.job_user["James.Lee@rvu.co.uk"]: Refreshing state... [id=interview-0d8aa69afc1b0080/roles/bigquery.jobUser/user:james.lee@rvu.co.uk/expires_on_2022-04-26//request.time < timestamp("2022-04-26T00:00:00Z")]
+module.interview_hannah.module.bigquery.google_bigquery_dataset.dataset: Refreshing state... [id=projects/interview-0fbc936c42af9c3e/datasets/interview_data]
+module.interview_conor.module.project_creation.google_project.project: Refreshing state... [id=projects/interview-0d8aa69afc1b0080]
+module.interview_conor.module.bigquery.google_bigquery_table.view["sessions"]: Refreshing state... [id=projects/interview-0d8aa69afc1b0080/datasets/interview_data/tables/sessions]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["alexander.conor12@gmail.com"]: Refreshing state... [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:alexander.conor12@gmail.com]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["kasia.kowalczyk@rvu.co.uk"]: Refreshing state... [id=projects/interview-0fbc936c42af9c3e/datasets/interview_data/roles/bigquery.dataOwner/user:kasia.kowalczyk@rvu.co.uk]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["alexander.conor12@gmail.com"]: Refreshing state... [id=projects/interview-0d8aa69afc1b0080/datasets/interview_data/roles/bigquery.dataOwner/user:alexander.conor12@gmail.com]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["Brendan.Dunn@rvu.co.uk"]: Refreshing state... [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:brendan.dunn@rvu.co.uk]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["hannah.carroll122@gmail.com"]: Refreshing state... [id=projects/interview-0fbc936c42af9c3e/datasets/interview_data/roles/bigquery.dataOwner/user:hannah.carroll122@gmail.com]
+module.interview_hannah.module.project_creation.google_project_iam_member.job_user["derwin.brennan@rvu.co.uk"]: Refreshing state... [id=interview-0fbc936c42af9c3e/roles/bigquery.jobUser/user:derwin.brennan@rvu.co.uk/expires_on_2022-04-26//request.time < timestamp("2022-04-26T00:00:00Z")]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["hannah.carroll122@gmail.com"]: Refreshing state... [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:hannah.carroll122@gmail.com]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["kasia.kowalczyk@rvu.co.uk"]: Refreshing state... [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:kasia.kowalczyk@rvu.co.uk]
+module.interview_conor.module.project_creation.google_project_service.bigquery: Refreshing state... [id=interview-0d8aa69afc1b0080/bigquery.googleapis.com]
+module.interview_hannah.module.bigquery.google_bigquery_table.view["savings"]: Refreshing state... [id=projects/interview-0fbc936c42af9c3e/datasets/interview_data/tables/savings]
+module.interview_conor.module.bigquery.google_bigquery_table.view["switches"]: Refreshing state... [id=projects/interview-0d8aa69afc1b0080/datasets/interview_data/tables/switches]
+module.interview_hannah.module.bigquery.google_bigquery_table.view["switches"]: Refreshing state... [id=projects/interview-0fbc936c42af9c3e/datasets/interview_data/tables/switches]
+module.interview_hannah.module.project_creation.google_project_service.bigquery: Refreshing state... [id=interview-0fbc936c42af9c3e/bigquery.googleapis.com]
+google_folder.folder: Refreshing state... [id=folders/828949806346]
+module.example.module.project_creation.google_project.project: Refreshing state... [id=projects/interview-c22a57bab6c19957]
+module.example.module.project_creation.google_project_iam_member.job_user["joebloggs@gmail.com"]: Refreshing state... [id=interview-c22a57bab6c19957/roles/bigquery.jobUser/user:joebloggs@gmail.com/expires_on_2021-08-14//request.time < timestamp("2021-08-14T00:00:00Z")]
+module.example.module.project_creation.google_project_service.iam: Refreshing state... [id=interview-c22a57bab6c19957/iam.googleapis.com]
+module.example.module.project_creation.google_project_service.bigquery: Refreshing state... [id=interview-c22a57bab6c19957/bigquery.googleapis.com]
+module.example.module.bigquery.google_bigquery_dataset.dataset: Refreshing state... [id=projects/interview-c22a57bab6c19957/datasets/interview_data]
+module.example.module.bigquery.google_bigquery_dataset_iam_member.interview_data["joebloggs@gmail.com"]: Refreshing state... [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:joebloggs@gmail.com]
+module.example.module.bigquery.google_bigquery_table.view["savings"]: Refreshing state... [id=projects/interview-c22a57bab6c19957/datasets/interview_data/tables/savings]
+module.example.module.bigquery.google_bigquery_table.view["sessions"]: Refreshing state... [id=projects/interview-c22a57bab6c19957/datasets/interview_data/tables/sessions]
+module.example.module.bigquery.google_bigquery_table.view["switches"]: Refreshing state... [id=projects/interview-c22a57bab6c19957/datasets/interview_data/tables/switches]
+module.example.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["joebloggs@gmail.com"]: Refreshing state... [id=projects/interview-c22a57bab6c19957/datasets/interview_data/roles/bigquery.dataOwner/user:joebloggs@gmail.com]
+
+Note: Objects have changed outside of Terraform
+
+Terraform detected the following changes made outside of Terraform since the
+last "terraform apply":
+
+  # module.interview_conor.module.bigquery.google_bigquery_dataset.dataset has been changed
+  ~ resource "google_bigquery_dataset" "dataset" ***
+      ~ etag                            = "Ip+ys+Eln6wzzJfCe06x6g==" -> "80WoOEbDDjHq36SebMyYKg=="
+        id                              = "projects/interview-0d8aa69afc1b0080/datasets/interview_data"
+      + labels                          = ***
+      ~ last_modified_time              = 1650892932769 -> 1650892960223
+        # (8 unchanged attributes hidden)
+
+      + access ***
+          + role          = "OWNER"
+          + user_by_email = "alexander.conor12@gmail.com"
+        ***
+      + access ***
+          + role          = "OWNER"
+          + user_by_email = "brendan.dunn@rvu.co.uk"
+        ***
+      + access ***
+          + role          = "OWNER"
+          + user_by_email = "james.lee@rvu.co.uk"
+        ***
+        # (4 unchanged blocks hidden)
+    ***
+  # module.interview_conor.module.bigquery.google_bigquery_table.view["sessions"] has been changed
+  ~ resource "google_bigquery_table" "view" ***
+        id                  = "projects/interview-0d8aa69afc1b0080/datasets/interview_data/tables/sessions"
+      + labels              = ***
+        # (15 unchanged attributes hidden)
+
+        # (1 unchanged block hidden)
+    ***
+  # module.interview_conor.module.bigquery.google_bigquery_table.view["switches"] has been changed
+  ~ resource "google_bigquery_table" "view" ***
+        id                  = "projects/interview-0d8aa69afc1b0080/datasets/interview_data/tables/switches"
+      + labels              = ***
+        # (15 unchanged attributes hidden)
+
+        # (1 unchanged block hidden)
+    ***
+  # module.interview_conor.module.bigquery.google_bigquery_table.view["savings"] has been changed
+  ~ resource "google_bigquery_table" "view" ***
+        id                  = "projects/interview-0d8aa69afc1b0080/datasets/interview_data/tables/savings"
+      + labels              = ***
+        # (15 unchanged attributes hidden)
+
+        # (1 unchanged block hidden)
+    ***
+
+Unless you have made equivalent changes to your configuration, or ignored the
+relevant attributes using ignore_changes, the following plan may include
+actions to undo or respond to these changes.
+
+─────────────────────────────────────────────────────────────────────────────
+
+Terraform used the selected providers to generate the following execution
+plan. Resource actions are indicated with the following symbols:
+  + create
+  - destroy
+
+Terraform will perform the following actions:
+
+  # module.interview_bowale.module.bigquery.google_bigquery_dataset.dataset will be created
+  + resource "google_bigquery_dataset" "dataset" ***
+      + creation_time              = (known after apply)
+      + dataset_id                 = "interview_data"
+      + delete_contents_on_destroy = true
+      + etag                       = (known after apply)
+      + id                         = (known after apply)
+      + last_modified_time         = (known after apply)
+      + location                   = "EU"
+      + project                    = (known after apply)
+      + self_link                  = (known after apply)
+
+      + access ***
+          + domain         = (known after apply)
+          + group_by_email = (known after apply)
+          + role           = (known after apply)
+          + special_group  = (known after apply)
+          + user_by_email  = (known after apply)
+
+          + dataset ***
+              + target_types = (known after apply)
+
+              + dataset ***
+                  + dataset_id = (known after apply)
+                  + project_id = (known after apply)
+                ***
+            ***
+
+          + view ***
+              + dataset_id = (known after apply)
+              + project_id = (known after apply)
+              + table_id   = (known after apply)
+            ***
+        ***
+    ***
+
+  # module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interview_data["derwin.brennan@rvu.co.uk"] will be created
+  + resource "google_bigquery_dataset_iam_member" "interview_data" ***
+      + dataset_id = "analyst_interview_data"
+      + etag       = (known after apply)
+      + id         = (known after apply)
+      + member     = "user:derwin.brennan@rvu.co.uk"
+      + project    = "rvu-interview"
+      + role       = "roles/bigquery.dataViewer"
+    ***
+
+  # module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interview_data["james.lee@rvu.co.uk"] will be created
+  + resource "google_bigquery_dataset_iam_member" "interview_data" ***
+      + dataset_id = "analyst_interview_data"
+      + etag       = (known after apply)
+      + id         = (known after apply)
+      + member     = "user:james.lee@rvu.co.uk"
+      + project    = "rvu-interview"
+      + role       = "roles/bigquery.dataViewer"
+    ***
+
+  # module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interview_data["musaolabowale@gmail.com"] will be created
+  + resource "google_bigquery_dataset_iam_member" "interview_data" ***
+      + dataset_id = "analyst_interview_data"
+      + etag       = (known after apply)
+      + id         = (known after apply)
+      + member     = "user:musaolabowale@gmail.com"
+      + project    = "rvu-interview"
+      + role       = "roles/bigquery.dataViewer"
+    ***
+
+  # module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["derwin.brennan@rvu.co.uk"] will be created
+  + resource "google_bigquery_dataset_iam_member" "interviewee_data" ***
+      + dataset_id = "interview_data"
+      + etag       = (known after apply)
+      + id         = (known after apply)
+      + member     = "user:derwin.brennan@rvu.co.uk"
+      + project    = (known after apply)
+      + role       = "roles/bigquery.dataOwner"
+    ***
+
+  # module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["james.lee@rvu.co.uk"] will be created
+  + resource "google_bigquery_dataset_iam_member" "interviewee_data" ***
+      + dataset_id = "interview_data"
+      + etag       = (known after apply)
+      + id         = (known after apply)
+      + member     = "user:james.lee@rvu.co.uk"
+      + project    = (known after apply)
+      + role       = "roles/bigquery.dataOwner"
+    ***
+
+  # module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["musaolabowale@gmail.com"] will be created
+  + resource "google_bigquery_dataset_iam_member" "interviewee_data" ***
+      + dataset_id = "interview_data"
+      + etag       = (known after apply)
+      + id         = (known after apply)
+      + member     = "user:musaolabowale@gmail.com"
+      + project    = (known after apply)
+      + role       = "roles/bigquery.dataOwner"
+    ***
+
+  # module.interview_bowale.module.bigquery.google_bigquery_table.view["savings"] will be created
+  + resource "google_bigquery_table" "view" ***
+      + creation_time       = (known after apply)
+      + dataset_id          = "interview_data"
+      + deletion_protection = false
+      + etag                = (known after apply)
+      + expiration_time     = (known after apply)
+      + id                  = (known after apply)
+      + last_modified_time  = (known after apply)
+      + location            = (known after apply)
+      + num_bytes           = (known after apply)
+      + num_long_term_bytes = (known after apply)
+      + num_rows            = (known after apply)
+      + project             = (known after apply)
+      + schema              = (known after apply)
+      + self_link           = (known after apply)
+      + table_id            = "savings"
+      + type                = (known after apply)
+
+      + view ***
+          + query          = "SELECT * FROM `rvu-interview.analyst_interview_data.savings`"
+          + use_legacy_sql = false
+        ***
+    ***
+
+  # module.interview_bowale.module.bigquery.google_bigquery_table.view["sessions"] will be created
+  + resource "google_bigquery_table" "view" ***
+      + creation_time       = (known after apply)
+      + dataset_id          = "interview_data"
+      + deletion_protection = false
+      + etag                = (known after apply)
+      + expiration_time     = (known after apply)
+      + id                  = (known after apply)
+      + last_modified_time  = (known after apply)
+      + location            = (known after apply)
+      + num_bytes           = (known after apply)
+      + num_long_term_bytes = (known after apply)
+      + num_rows            = (known after apply)
+      + project             = (known after apply)
+      + schema              = (known after apply)
+      + self_link           = (known after apply)
+      + table_id            = "sessions"
+      + type                = (known after apply)
+
+      + view ***
+          + query          = "SELECT * FROM `rvu-interview.analyst_interview_data.sessions`"
+          + use_legacy_sql = false
+        ***
+    ***
+
+  # module.interview_bowale.module.bigquery.google_bigquery_table.view["switches"] will be created
+  + resource "google_bigquery_table" "view" ***
+      + creation_time       = (known after apply)
+      + dataset_id          = "interview_data"
+      + deletion_protection = false
+      + etag                = (known after apply)
+      + expiration_time     = (known after apply)
+      + id                  = (known after apply)
+      + last_modified_time  = (known after apply)
+      + location            = (known after apply)
+      + num_bytes           = (known after apply)
+      + num_long_term_bytes = (known after apply)
+      + num_rows            = (known after apply)
+      + project             = (known after apply)
+      + schema              = (known after apply)
+      + self_link           = (known after apply)
+      + table_id            = "switches"
+      + type                = (known after apply)
+
+      + view ***
+          + query          = "SELECT * FROM `rvu-interview.analyst_interview_data.switches`"
+          + use_legacy_sql = false
+        ***
+    ***
+
+  # module.interview_bowale.module.project_creation.google_project.project will be created
+  + resource "google_project" "project" ***
+      + auto_create_network = true
+      + billing_account     = "***"
+      + folder_id           = "828949806346"
+      + id                  = (known after apply)
+      + labels              = ***
+          + "created_by" = "terraform"
+        ***
+      + name                = (known after apply)
+      + number              = (known after apply)
+      + project_id          = (known after apply)
+      + skip_delete         = (known after apply)
+    ***
+
+  # module.interview_bowale.module.project_creation.google_project_iam_member.job_user["derwin.brennan@rvu.co.uk"] will be created
+  + resource "google_project_iam_member" "job_user" ***
+      + etag    = (known after apply)
+      + id      = (known after apply)
+      + member  = "user:derwin.brennan@rvu.co.uk"
+      + project = (known after apply)
+      + role    = "roles/bigquery.jobUser"
+
+      + condition ***
+          + expression = "request.time < timestamp(\"2022-04-30T00:00:00Z\")"
+          + title      = "expires_on_2022-04-30"
+        ***
+    ***
+
+  # module.interview_bowale.module.project_creation.google_project_iam_member.job_user["james.lee@rvu.co.uk"] will be created
+  + resource "google_project_iam_member" "job_user" ***
+      + etag    = (known after apply)
+      + id      = (known after apply)
+      + member  = "user:james.lee@rvu.co.uk"
+      + project = (known after apply)
+      + role    = "roles/bigquery.jobUser"
+
+      + condition ***
+          + expression = "request.time < timestamp(\"2022-04-30T00:00:00Z\")"
+          + title      = "expires_on_2022-04-30"
+        ***
+    ***
+
+  # module.interview_bowale.module.project_creation.google_project_iam_member.job_user["musaolabowale@gmail.com"] will be created
+  + resource "google_project_iam_member" "job_user" ***
+      + etag    = (known after apply)
+      + id      = (known after apply)
+      + member  = "user:musaolabowale@gmail.com"
+      + project = (known after apply)
+      + role    = "roles/bigquery.jobUser"
+
+      + condition ***
+          + expression = "request.time < timestamp(\"2022-04-30T00:00:00Z\")"
+          + title      = "expires_on_2022-04-30"
+        ***
+    ***
+
+  # module.interview_bowale.module.project_creation.google_project_service.bigquery will be created
+  + resource "google_project_service" "bigquery" ***
+      + disable_dependent_services = true
+      + disable_on_destroy         = true
+      + id                         = (known after apply)
+      + project                    = (known after apply)
+      + service                    = "bigquery.googleapis.com"
+    ***
+
+  # module.interview_bowale.module.project_creation.google_project_service.iam will be created
+  + resource "google_project_service" "iam" ***
+      + disable_on_destroy = true
+      + id                 = (known after apply)
+      + project            = (known after apply)
+      + service            = "iam.googleapis.com"
+    ***
+
+  # module.interview_bowale.module.project_creation.random_id.id will be created
+  + resource "random_id" "id" ***
+      + b64_std     = (known after apply)
+      + b64_url     = (known after apply)
+      + byte_length = 8
+      + dec         = (known after apply)
+      + hex         = (known after apply)
+      + id          = (known after apply)
+    ***
+
+  # module.interview_conor.module.bigquery.google_bigquery_dataset.dataset will be destroyed
+  - resource "google_bigquery_dataset" "dataset" ***
+      - creation_time                   = 1650892932769 -> null
+      - dataset_id                      = "interview_data" -> null
+      - default_partition_expiration_ms = 0 -> null
+      - default_table_expiration_ms     = 0 -> null
+      - delete_contents_on_destroy      = true -> null
+      - etag                            = "80WoOEbDDjHq36SebMyYKg==" -> null
+      - id                              = "projects/interview-0d8aa69afc1b0080/datasets/interview_data" -> null
+      - labels                          = *** -> null
+      - last_modified_time              = 1650892960223 -> null
+      - location                        = "EU" -> null
+      - project                         = "interview-0d8aa69afc1b0080" -> null
+      - self_link                       = "https://bigquery.googleapis.com/bigquery/v2/projects/interview-0d8aa69afc1b0080/datasets/interview_data" -> null
+
+      - access ***
+          - role          = "OWNER" -> null
+          - user_by_email = "alexander.conor12@gmail.com" -> null
+        ***
+      - access ***
+          - role          = "OWNER" -> null
+          - user_by_email = "brendan.dunn@rvu.co.uk" -> null
+        ***
+      - access ***
+          - role          = "OWNER" -> null
+          - user_by_email = "james.lee@rvu.co.uk" -> null
+        ***
+      - access ***
+          - role          = "OWNER" -> null
+          - user_by_email = "terraform@rvu-terraform-admin.iam.gserviceaccount.com" -> null
+        ***
+      - access ***
+          - role          = "OWNER" -> null
+          - special_group = "projectOwners" -> null
+        ***
+      - access ***
+          - role          = "READER" -> null
+          - special_group = "projectReaders" -> null
+        ***
+      - access ***
+          - role          = "WRITER" -> null
+          - special_group = "projectWriters" -> null
+        ***
+    ***
+
+  # module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["Brendan.Dunn@rvu.co.uk"] will be destroyed
+  - resource "google_bigquery_dataset_iam_member" "interview_data" ***
+      - dataset_id = "analyst_interview_data" -> null
+      - id         = "projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:brendan.dunn@rvu.co.uk" -> null
+      - member     = "user:brendan.dunn@rvu.co.uk" -> null
+      - project    = "rvu-interview" -> null
+      - role       = "roles/bigquery.dataViewer" -> null
+    ***
+
+  # module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["James.Lee@rvu.co.uk"] will be destroyed
+  - resource "google_bigquery_dataset_iam_member" "interview_data" ***
+      - dataset_id = "analyst_interview_data" -> null
+      - id         = "projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:james.lee@rvu.co.uk" -> null
+      - member     = "user:james.lee@rvu.co.uk" -> null
+      - project    = "rvu-interview" -> null
+      - role       = "roles/bigquery.dataViewer" -> null
+    ***
+
+  # module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["alexander.conor12@gmail.com"] will be destroyed
+  - resource "google_bigquery_dataset_iam_member" "interview_data" ***
+      - dataset_id = "analyst_interview_data" -> null
+      - id         = "projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:alexander.conor12@gmail.com" -> null
+      - member     = "user:alexander.conor12@gmail.com" -> null
+      - project    = "rvu-interview" -> null
+      - role       = "roles/bigquery.dataViewer" -> null
+    ***
+
+  # module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["Brendan.Dunn@rvu.co.uk"] will be destroyed
+  - resource "google_bigquery_dataset_iam_member" "interviewee_data" ***
+      - dataset_id = "interview_data" -> null
+      - id         = "projects/interview-0d8aa69afc1b0080/datasets/interview_data/roles/bigquery.dataOwner/user:brendan.dunn@rvu.co.uk" -> null
+      - member     = "user:brendan.dunn@rvu.co.uk" -> null
+      - project    = "interview-0d8aa69afc1b0080" -> null
+      - role       = "roles/bigquery.dataOwner" -> null
+    ***
+
+  # module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["James.Lee@rvu.co.uk"] will be destroyed
+  - resource "google_bigquery_dataset_iam_member" "interviewee_data" ***
+      - dataset_id = "interview_data" -> null
+      - id         = "projects/interview-0d8aa69afc1b0080/datasets/interview_data/roles/bigquery.dataOwner/user:james.lee@rvu.co.uk" -> null
+      - member     = "user:james.lee@rvu.co.uk" -> null
+      - project    = "interview-0d8aa69afc1b0080" -> null
+      - role       = "roles/bigquery.dataOwner" -> null
+    ***
+
+  # module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["alexander.conor12@gmail.com"] will be destroyed
+  - resource "google_bigquery_dataset_iam_member" "interviewee_data" ***
+      - dataset_id = "interview_data" -> null
+      - id         = "projects/interview-0d8aa69afc1b0080/datasets/interview_data/roles/bigquery.dataOwner/user:alexander.conor12@gmail.com" -> null
+      - member     = "user:alexander.conor12@gmail.com" -> null
+      - project    = "interview-0d8aa69afc1b0080" -> null
+      - role       = "roles/bigquery.dataOwner" -> null
+    ***
+
+  # module.interview_conor.module.bigquery.google_bigquery_table.view["savings"] will be destroyed
+  - resource "google_bigquery_table" "view" ***
+      - creation_time       = 1650892935284 -> null
+      - dataset_id          = "interview_data" -> null
+      - deletion_protection = false -> null
+      - etag                = "sOBkRI2Ychgt5vozZziaJw==" -> null
+      - expiration_time     = 0 -> null
+      - id                  = "projects/interview-0d8aa69afc1b0080/datasets/interview_data/tables/savings" -> null
+      - labels              = *** -> null
+      - last_modified_time  = 1650892936073 -> null
+      - location            = "EU" -> null
+      - num_bytes           = 0 -> null
+      - num_long_term_bytes = 0 -> null
+      - num_rows            = 0 -> null
+      - project             = "interview-0d8aa69afc1b0080" -> null
+      - schema              = jsonencode(
+            [
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "impression_id"
+                  - type = "STRING"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "maximum_savings_seen"
+                  - type = "FLOAT"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "comparison_position"
+                  - type = "INTEGER"
+                ***,
+            ]
+        ) -> null
+      - self_link           = "https://bigquery.googleapis.com/bigquery/v2/projects/interview-0d8aa69afc1b0080/datasets/interview_data/tables/savings" -> null
+      - table_id            = "savings" -> null
+      - type                = "VIEW" -> null
+
+      - view ***
+          - query          = "SELECT * FROM `rvu-interview.analyst_interview_data.savings`" -> null
+          - use_legacy_sql = false -> null
+        ***
+    ***
+
+  # module.interview_conor.module.bigquery.google_bigquery_table.view["sessions"] will be destroyed
+  - resource "google_bigquery_table" "view" ***
+      - creation_time       = 1650892935270 -> null
+      - dataset_id          = "interview_data" -> null
+      - deletion_protection = false -> null
+      - etag                = "vtu0EwN+BCGHe4plu/4YHQ==" -> null
+      - expiration_time     = 0 -> null
+      - id                  = "projects/interview-0d8aa69afc1b0080/datasets/interview_data/tables/sessions" -> null
+      - labels              = *** -> null
+      - last_modified_time  = 1650892935962 -> null
+      - location            = "EU" -> null
+      - num_bytes           = 0 -> null
+      - num_long_term_bytes = 0 -> null
+      - num_rows            = 0 -> null
+      - project             = "interview-0d8aa69afc1b0080" -> null
+      - schema              = jsonencode(
+            [
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "date"
+                  - type = "DATE"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "session_ID"
+                  - type = "STRING"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "impression_id"
+                  - type = "STRING"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "device_type"
+                  - type = "STRING"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "channel"
+                  - type = "STRING"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "experiment_bucket"
+                  - type = "STRING"
+                ***,
+            ]
+        ) -> null
+      - self_link           = "https://bigquery.googleapis.com/bigquery/v2/projects/interview-0d8aa69afc1b0080/datasets/interview_data/tables/sessions" -> null
+      - table_id            = "sessions" -> null
+      - type                = "VIEW" -> null
+
+      - view ***
+          - query          = "SELECT * FROM `rvu-interview.analyst_interview_data.sessions`" -> null
+          - use_legacy_sql = false -> null
+        ***
+    ***
+
+  # module.interview_conor.module.bigquery.google_bigquery_table.view["switches"] will be destroyed
+  - resource "google_bigquery_table" "view" ***
+      - creation_time       = 1650892935370 -> null
+      - dataset_id          = "interview_data" -> null
+      - deletion_protection = false -> null
+      - etag                = "oDO3amLkG7jvXBRLxWQjow==" -> null
+      - expiration_time     = 0 -> null
+      - id                  = "projects/interview-0d8aa69afc1b0080/datasets/interview_data/tables/switches" -> null
+      - labels              = *** -> null
+      - last_modified_time  = 1650892936135 -> null
+      - location            = "EU" -> null
+      - num_bytes           = 0 -> null
+      - num_long_term_bytes = 0 -> null
+      - num_rows            = 0 -> null
+      - project             = "interview-0d8aa69afc1b0080" -> null
+      - schema              = jsonencode(
+            [
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "session_id"
+                  - type = "STRING"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "switched"
+                  - type = "INTEGER"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "revenue"
+                  - type = "INTEGER"
+                ***,
+            ]
+        ) -> null
+      - self_link           = "https://bigquery.googleapis.com/bigquery/v2/projects/interview-0d8aa69afc1b0080/datasets/interview_data/tables/switches" -> null
+      - table_id            = "switches" -> null
+      - type                = "VIEW" -> null
+
+      - view ***
+          - query          = "SELECT * FROM `rvu-interview.analyst_interview_data.switches`" -> null
+          - use_legacy_sql = false -> null
+        ***
+    ***
+
+  # module.interview_conor.module.project_creation.google_project.project will be destroyed
+  - resource "google_project" "project" ***
+      - auto_create_network = true -> null
+      - billing_account     = "***" -> null
+      - folder_id           = "828949806346" -> null
+      - id                  = "projects/interview-0d8aa69afc1b0080" -> null
+      - labels              = ***
+          - "created_by" = "terraform"
+        *** -> null
+      - name                = "interview-0d8aa69afc1b0080" -> null
+      - number              = "120696957859" -> null
+      - project_id          = "interview-0d8aa69afc1b0080" -> null
+    ***
+
+  # module.interview_conor.module.project_creation.google_project_iam_member.job_user["Brendan.Dunn@rvu.co.uk"] will be destroyed
+  - resource "google_project_iam_member" "job_user" ***
+      - etag    = "BwXdenWnoVU=" -> null
+      - id      = "interview-0d8aa69afc1b0080/roles/bigquery.jobUser/user:brendan.dunn@rvu.co.uk/expires_on_2022-04-26//request.time < timestamp(\"2022-04-26T00:00:00Z\")" -> null
+      - member  = "user:brendan.dunn@rvu.co.uk" -> null
+      - project = "interview-0d8aa69afc1b0080" -> null
+      - role    = "roles/bigquery.jobUser" -> null
+
+      - condition ***
+          - expression = "request.time < timestamp(\"2022-04-26T00:00:00Z\")" -> null
+          - title      = "expires_on_2022-04-26" -> null
+        ***
+    ***
+
+  # module.interview_conor.module.project_creation.google_project_iam_member.job_user["James.Lee@rvu.co.uk"] will be destroyed
+  - resource "google_project_iam_member" "job_user" ***
+      - etag    = "BwXdenWnoVU=" -> null
+      - id      = "interview-0d8aa69afc1b0080/roles/bigquery.jobUser/user:james.lee@rvu.co.uk/expires_on_2022-04-26//request.time < timestamp(\"2022-04-26T00:00:00Z\")" -> null
+      - member  = "user:james.lee@rvu.co.uk" -> null
+      - project = "interview-0d8aa69afc1b0080" -> null
+      - role    = "roles/bigquery.jobUser" -> null
+
+      - condition ***
+          - expression = "request.time < timestamp(\"2022-04-26T00:00:00Z\")" -> null
+          - title      = "expires_on_2022-04-26" -> null
+        ***
+    ***
+
+  # module.interview_conor.module.project_creation.google_project_iam_member.job_user["alexander.conor12@gmail.com"] will be destroyed
+  - resource "google_project_iam_member" "job_user" ***
+      - etag    = "BwXdenWnoVU=" -> null
+      - id      = "interview-0d8aa69afc1b0080/roles/bigquery.jobUser/user:alexander.conor12@gmail.com/expires_on_2022-04-26//request.time < timestamp(\"2022-04-26T00:00:00Z\")" -> null
+      - member  = "user:alexander.conor12@gmail.com" -> null
+      - project = "interview-0d8aa69afc1b0080" -> null
+      - role    = "roles/bigquery.jobUser" -> null
+
+      - condition ***
+          - expression = "request.time < timestamp(\"2022-04-26T00:00:00Z\")" -> null
+          - title      = "expires_on_2022-04-26" -> null
+        ***
+    ***
+
+  # module.interview_conor.module.project_creation.google_project_service.bigquery will be destroyed
+  - resource "google_project_service" "bigquery" ***
+      - disable_dependent_services = true -> null
+      - disable_on_destroy         = true -> null
+      - id                         = "interview-0d8aa69afc1b0080/bigquery.googleapis.com" -> null
+      - project                    = "interview-0d8aa69afc1b0080" -> null
+      - service                    = "bigquery.googleapis.com" -> null
+    ***
+
+  # module.interview_conor.module.project_creation.google_project_service.iam will be destroyed
+  - resource "google_project_service" "iam" ***
+      - disable_on_destroy = true -> null
+      - id                 = "interview-0d8aa69afc1b0080/iam.googleapis.com" -> null
+      - project            = "interview-0d8aa69afc1b0080" -> null
+      - service            = "iam.googleapis.com" -> null
+    ***
+
+  # module.interview_conor.module.project_creation.random_id.id will be destroyed
+  - resource "random_id" "id" ***
+      - b64_std     = "DYqmmvwbAIA=" -> null
+      - b64_url     = "DYqmmvwbAIA" -> null
+      - byte_length = 8 -> null
+      - dec         = "975775453863936128" -> null
+      - hex         = "0d8aa69afc1b0080" -> null
+      - id          = "DYqmmvwbAIA" -> null
+    ***
+
+  # module.interview_hannah.module.bigquery.google_bigquery_dataset.dataset will be destroyed
+  - resource "google_bigquery_dataset" "dataset" ***
+      - creation_time                   = 1650875348473 -> null
+      - dataset_id                      = "interview_data" -> null
+      - default_partition_expiration_ms = 0 -> null
+      - default_table_expiration_ms     = 0 -> null
+      - delete_contents_on_destroy      = true -> null
+      - etag                            = "KkjnU9AN1evbIhBBGhQP9g==" -> null
+      - id                              = "projects/interview-0fbc936c42af9c3e/datasets/interview_data" -> null
+      - labels                          = *** -> null
+      - last_modified_time              = 1650875368922 -> null
+      - location                        = "EU" -> null
+      - project                         = "interview-0fbc936c42af9c3e" -> null
+      - self_link                       = "https://bigquery.googleapis.com/bigquery/v2/projects/interview-0fbc936c42af9c3e/datasets/interview_data" -> null
+
+      - access ***
+          - role          = "OWNER" -> null
+          - user_by_email = "derwin.brennan@rvu.co.uk" -> null
+        ***
+      - access ***
+          - role          = "OWNER" -> null
+          - user_by_email = "hannah.carroll122@gmail.com" -> null
+        ***
+      - access ***
+          - role          = "OWNER" -> null
+          - user_by_email = "kasia.kowalczyk@rvu.co.uk" -> null
+        ***
+      - access ***
+          - role          = "OWNER" -> null
+          - user_by_email = "terraform@rvu-terraform-admin.iam.gserviceaccount.com" -> null
+        ***
+      - access ***
+          - role          = "OWNER" -> null
+          - special_group = "projectOwners" -> null
+        ***
+      - access ***
+          - role          = "READER" -> null
+          - special_group = "projectReaders" -> null
+        ***
+      - access ***
+          - role          = "WRITER" -> null
+          - special_group = "projectWriters" -> null
+        ***
+    ***
+
+  # module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["derwin.brennan@rvu.co.uk"] will be destroyed
+  - resource "google_bigquery_dataset_iam_member" "interview_data" ***
+      - dataset_id = "analyst_interview_data" -> null
+      - id         = "projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:derwin.brennan@rvu.co.uk" -> null
+      - member     = "user:derwin.brennan@rvu.co.uk" -> null
+      - project    = "rvu-interview" -> null
+      - role       = "roles/bigquery.dataViewer" -> null
+    ***
+
+  # module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["hannah.carroll122@gmail.com"] will be destroyed
+  - resource "google_bigquery_dataset_iam_member" "interview_data" ***
+      - dataset_id = "analyst_interview_data" -> null
+      - id         = "projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:hannah.carroll122@gmail.com" -> null
+      - member     = "user:hannah.carroll122@gmail.com" -> null
+      - project    = "rvu-interview" -> null
+      - role       = "roles/bigquery.dataViewer" -> null
+    ***
+
+  # module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["kasia.kowalczyk@rvu.co.uk"] will be destroyed
+  - resource "google_bigquery_dataset_iam_member" "interview_data" ***
+      - dataset_id = "analyst_interview_data" -> null
+      - id         = "projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:kasia.kowalczyk@rvu.co.uk" -> null
+      - member     = "user:kasia.kowalczyk@rvu.co.uk" -> null
+      - project    = "rvu-interview" -> null
+      - role       = "roles/bigquery.dataViewer" -> null
+    ***
+
+  # module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["derwin.brennan@rvu.co.uk"] will be destroyed
+  - resource "google_bigquery_dataset_iam_member" "interviewee_data" ***
+      - dataset_id = "interview_data" -> null
+      - id         = "projects/interview-0fbc936c42af9c3e/datasets/interview_data/roles/bigquery.dataOwner/user:derwin.brennan@rvu.co.uk" -> null
+      - member     = "user:derwin.brennan@rvu.co.uk" -> null
+      - project    = "interview-0fbc936c42af9c3e" -> null
+      - role       = "roles/bigquery.dataOwner" -> null
+    ***
+
+  # module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["hannah.carroll122@gmail.com"] will be destroyed
+  - resource "google_bigquery_dataset_iam_member" "interviewee_data" ***
+      - dataset_id = "interview_data" -> null
+      - id         = "projects/interview-0fbc936c42af9c3e/datasets/interview_data/roles/bigquery.dataOwner/user:hannah.carroll122@gmail.com" -> null
+      - member     = "user:hannah.carroll122@gmail.com" -> null
+      - project    = "interview-0fbc936c42af9c3e" -> null
+      - role       = "roles/bigquery.dataOwner" -> null
+    ***
+
+  # module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["kasia.kowalczyk@rvu.co.uk"] will be destroyed
+  - resource "google_bigquery_dataset_iam_member" "interviewee_data" ***
+      - dataset_id = "interview_data" -> null
+      - id         = "projects/interview-0fbc936c42af9c3e/datasets/interview_data/roles/bigquery.dataOwner/user:kasia.kowalczyk@rvu.co.uk" -> null
+      - member     = "user:kasia.kowalczyk@rvu.co.uk" -> null
+      - project    = "interview-0fbc936c42af9c3e" -> null
+      - role       = "roles/bigquery.dataOwner" -> null
+    ***
+
+  # module.interview_hannah.module.bigquery.google_bigquery_table.view["savings"] will be destroyed
+  - resource "google_bigquery_table" "view" ***
+      - creation_time       = 1650875351219 -> null
+      - dataset_id          = "interview_data" -> null
+      - deletion_protection = false -> null
+      - etag                = "Wj53fiMZJZ00uoox+a0mHQ==" -> null
+      - expiration_time     = 0 -> null
+      - id                  = "projects/interview-0fbc936c42af9c3e/datasets/interview_data/tables/savings" -> null
+      - labels              = *** -> null
+      - last_modified_time  = 1650875351836 -> null
+      - location            = "EU" -> null
+      - num_bytes           = 0 -> null
+      - num_long_term_bytes = 0 -> null
+      - num_rows            = 0 -> null
+      - project             = "interview-0fbc936c42af9c3e" -> null
+      - schema              = jsonencode(
+            [
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "impression_id"
+                  - type = "STRING"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "maximum_savings_seen"
+                  - type = "FLOAT"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "comparison_position"
+                  - type = "INTEGER"
+                ***,
+            ]
+        ) -> null
+      - self_link           = "https://bigquery.googleapis.com/bigquery/v2/projects/interview-0fbc936c42af9c3e/datasets/interview_data/tables/savings" -> null
+      - table_id            = "savings" -> null
+      - type                = "VIEW" -> null
+
+      - view ***
+          - query          = "SELECT * FROM `rvu-interview.analyst_interview_data.savings`" -> null
+          - use_legacy_sql = false -> null
+        ***
+    ***
+
+  # module.interview_hannah.module.bigquery.google_bigquery_table.view["sessions"] will be destroyed
+  - resource "google_bigquery_table" "view" ***
+      - creation_time       = 1650875351236 -> null
+      - dataset_id          = "interview_data" -> null
+      - deletion_protection = false -> null
+      - etag                = "/BEwltSHzMVcg5si17veDw==" -> null
+      - expiration_time     = 0 -> null
+      - id                  = "projects/interview-0fbc936c42af9c3e/datasets/interview_data/tables/sessions" -> null
+      - labels              = *** -> null
+      - last_modified_time  = 1650875352063 -> null
+      - location            = "EU" -> null
+      - num_bytes           = 0 -> null
+      - num_long_term_bytes = 0 -> null
+      - num_rows            = 0 -> null
+      - project             = "interview-0fbc936c42af9c3e" -> null
+      - schema              = jsonencode(
+            [
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "date"
+                  - type = "DATE"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "session_ID"
+                  - type = "STRING"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "impression_id"
+                  - type = "STRING"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "device_type"
+                  - type = "STRING"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "channel"
+                  - type = "STRING"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "experiment_bucket"
+                  - type = "STRING"
+                ***,
+            ]
+        ) -> null
+      - self_link           = "https://bigquery.googleapis.com/bigquery/v2/projects/interview-0fbc936c42af9c3e/datasets/interview_data/tables/sessions" -> null
+      - table_id            = "sessions" -> null
+      - type                = "VIEW" -> null
+
+      - view ***
+          - query          = "SELECT * FROM `rvu-interview.analyst_interview_data.sessions`" -> null
+          - use_legacy_sql = false -> null
+        ***
+    ***
+
+  # module.interview_hannah.module.bigquery.google_bigquery_table.view["switches"] will be destroyed
+  - resource "google_bigquery_table" "view" ***
+      - creation_time       = 1650875351233 -> null
+      - dataset_id          = "interview_data" -> null
+      - deletion_protection = false -> null
+      - etag                = "Jr9VkfSQOOf0WSEeRloq2g==" -> null
+      - expiration_time     = 0 -> null
+      - id                  = "projects/interview-0fbc936c42af9c3e/datasets/interview_data/tables/switches" -> null
+      - labels              = *** -> null
+      - last_modified_time  = 1650875352061 -> null
+      - location            = "EU" -> null
+      - num_bytes           = 0 -> null
+      - num_long_term_bytes = 0 -> null
+      - num_rows            = 0 -> null
+      - project             = "interview-0fbc936c42af9c3e" -> null
+      - schema              = jsonencode(
+            [
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "session_id"
+                  - type = "STRING"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "switched"
+                  - type = "INTEGER"
+                ***,
+              - ***
+                  - mode = "NULLABLE"
+                  - name = "revenue"
+                  - type = "INTEGER"
+                ***,
+            ]
+        ) -> null
+      - self_link           = "https://bigquery.googleapis.com/bigquery/v2/projects/interview-0fbc936c42af9c3e/datasets/interview_data/tables/switches" -> null
+      - table_id            = "switches" -> null
+      - type                = "VIEW" -> null
+
+      - view ***
+          - query          = "SELECT * FROM `rvu-interview.analyst_interview_data.switches`" -> null
+          - use_legacy_sql = false -> null
+        ***
+    ***
+
+  # module.interview_hannah.module.project_creation.google_project.project will be destroyed
+  - resource "google_project" "project" ***
+      - auto_create_network = true -> null
+      - billing_account     = "***" -> null
+      - folder_id           = "828949806346" -> null
+      - id                  = "projects/interview-0fbc936c42af9c3e" -> null
+      - labels              = ***
+          - "created_by" = "terraform"
+        *** -> null
+      - name                = "interview-0fbc936c42af9c3e" -> null
+      - number              = "559622686820" -> null
+      - project_id          = "interview-0fbc936c42af9c3e" -> null
+    ***
+
+  # module.interview_hannah.module.project_creation.google_project_iam_member.job_user["derwin.brennan@rvu.co.uk"] will be destroyed
+  - resource "google_project_iam_member" "job_user" ***
+      - etag    = "BwXddl14lYg=" -> null
+      - id      = "interview-0fbc936c42af9c3e/roles/bigquery.jobUser/user:derwin.brennan@rvu.co.uk/expires_on_2022-04-26//request.time < timestamp(\"2022-04-26T00:00:00Z\")" -> null
+      - member  = "user:derwin.brennan@rvu.co.uk" -> null
+      - project = "interview-0fbc936c42af9c3e" -> null
+      - role    = "roles/bigquery.jobUser" -> null
+
+      - condition ***
+          - expression = "request.time < timestamp(\"2022-04-26T00:00:00Z\")" -> null
+          - title      = "expires_on_2022-04-26" -> null
+        ***
+    ***
+
+  # module.interview_hannah.module.project_creation.google_project_iam_member.job_user["hannah.carroll122@gmail.com"] will be destroyed
+  - resource "google_project_iam_member" "job_user" ***
+      - etag    = "BwXddl14lYg=" -> null
+      - id      = "interview-0fbc936c42af9c3e/roles/bigquery.jobUser/user:hannah.carroll122@gmail.com/expires_on_2022-04-26//request.time < timestamp(\"2022-04-26T00:00:00Z\")" -> null
+      - member  = "user:hannah.carroll122@gmail.com" -> null
+      - project = "interview-0fbc936c42af9c3e" -> null
+      - role    = "roles/bigquery.jobUser" -> null
+
+      - condition ***
+          - expression = "request.time < timestamp(\"2022-04-26T00:00:00Z\")" -> null
+          - title      = "expires_on_2022-04-26" -> null
+        ***
+    ***
+
+  # module.interview_hannah.module.project_creation.google_project_iam_member.job_user["kasia.kowalczyk@rvu.co.uk"] will be destroyed
+  - resource "google_project_iam_member" "job_user" ***
+      - etag    = "BwXddl14lYg=" -> null
+      - id      = "interview-0fbc936c42af9c3e/roles/bigquery.jobUser/user:kasia.kowalczyk@rvu.co.uk/expires_on_2022-04-26//request.time < timestamp(\"2022-04-26T00:00:00Z\")" -> null
+      - member  = "user:kasia.kowalczyk@rvu.co.uk" -> null
+      - project = "interview-0fbc936c42af9c3e" -> null
+      - role    = "roles/bigquery.jobUser" -> null
+
+      - condition ***
+          - expression = "request.time < timestamp(\"2022-04-26T00:00:00Z\")" -> null
+          - title      = "expires_on_2022-04-26" -> null
+        ***
+    ***
+
+  # module.interview_hannah.module.project_creation.google_project_service.bigquery will be destroyed
+  - resource "google_project_service" "bigquery" ***
+      - disable_dependent_services = true -> null
+      - disable_on_destroy         = true -> null
+      - id                         = "interview-0fbc936c42af9c3e/bigquery.googleapis.com" -> null
+      - project                    = "interview-0fbc936c42af9c3e" -> null
+      - service                    = "bigquery.googleapis.com" -> null
+    ***
+
+  # module.interview_hannah.module.project_creation.google_project_service.iam will be destroyed
+  - resource "google_project_service" "iam" ***
+      - disable_on_destroy = true -> null
+      - id                 = "interview-0fbc936c42af9c3e/iam.googleapis.com" -> null
+      - project            = "interview-0fbc936c42af9c3e" -> null
+      - service            = "iam.googleapis.com" -> null
+    ***
+
+  # module.interview_hannah.module.project_creation.random_id.id will be destroyed
+  - resource "random_id" "id" ***
+      - b64_std     = "D7yTbEKvnD4=" -> null
+      - b64_url     = "D7yTbEKvnD4" -> null
+      - byte_length = 8 -> null
+      - dec         = "1133943299375078462" -> null
+      - hex         = "0fbc936c42af9c3e" -> null
+      - id          = "D7yTbEKvnD4" -> null
+    ***
+
+Plan: 17 to add, 0 to change, 34 to destroy.
+module.interview_bowale.module.project_creation.random_id.id: Creating...
+module.interview_bowale.module.project_creation.random_id.id: Creation complete after 0s [id=WnhQpO4sn6o]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["James.Lee@rvu.co.uk"]: Destroying... [id=projects/interview-0d8aa69afc1b0080/datasets/interview_data/roles/bigquery.dataOwner/user:james.lee@rvu.co.uk]
+module.interview_conor.module.bigquery.google_bigquery_table.view["sessions"]: Destroying... [id=projects/interview-0d8aa69afc1b0080/datasets/interview_data/tables/sessions]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["derwin.brennan@rvu.co.uk"]: Destroying... [id=projects/interview-0fbc936c42af9c3e/datasets/interview_data/roles/bigquery.dataOwner/user:derwin.brennan@rvu.co.uk]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["alexander.conor12@gmail.com"]: Destroying... [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:alexander.conor12@gmail.com]
+module.interview_conor.module.bigquery.google_bigquery_table.view["switches"]: Destroying... [id=projects/interview-0d8aa69afc1b0080/datasets/interview_data/tables/switches]
+module.interview_conor.module.bigquery.google_bigquery_table.view["savings"]: Destroying... [id=projects/interview-0d8aa69afc1b0080/datasets/interview_data/tables/savings]
+module.interview_hannah.module.bigquery.google_bigquery_table.view["sessions"]: Destroying... [id=projects/interview-0fbc936c42af9c3e/datasets/interview_data/tables/sessions]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["alexander.conor12@gmail.com"]: Destroying... [id=projects/interview-0d8aa69afc1b0080/datasets/interview_data/roles/bigquery.dataOwner/user:alexander.conor12@gmail.com]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["James.Lee@rvu.co.uk"]: Destroying... [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:james.lee@rvu.co.uk]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["hannah.carroll122@gmail.com"]: Destroying... [id=projects/interview-0fbc936c42af9c3e/datasets/interview_data/roles/bigquery.dataOwner/user:hannah.carroll122@gmail.com]
+module.interview_hannah.module.bigquery.google_bigquery_table.view["sessions"]: Destruction complete after 0s
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["Brendan.Dunn@rvu.co.uk"]: Destroying... [id=projects/interview-0d8aa69afc1b0080/datasets/interview_data/roles/bigquery.dataOwner/user:brendan.dunn@rvu.co.uk]
+module.interview_conor.module.bigquery.google_bigquery_table.view["switches"]: Destruction complete after 0s
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["hannah.carroll122@gmail.com"]: Destroying... [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:hannah.carroll122@gmail.com]
+module.interview_conor.module.bigquery.google_bigquery_table.view["sessions"]: Destruction complete after 0s
+module.interview_hannah.module.bigquery.google_bigquery_table.view["savings"]: Destroying... [id=projects/interview-0fbc936c42af9c3e/datasets/interview_data/tables/savings]
+module.interview_conor.module.bigquery.google_bigquery_table.view["savings"]: Destruction complete after 0s
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["kasia.kowalczyk@rvu.co.uk"]: Destroying... [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:kasia.kowalczyk@rvu.co.uk]
+module.interview_hannah.module.bigquery.google_bigquery_table.view["savings"]: Destruction complete after 0s
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["kasia.kowalczyk@rvu.co.uk"]: Destroying... [id=projects/interview-0fbc936c42af9c3e/datasets/interview_data/roles/bigquery.dataOwner/user:kasia.kowalczyk@rvu.co.uk]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["James.Lee@rvu.co.uk"]: Destruction complete after 7s
+module.interview_hannah.module.bigquery.google_bigquery_table.view["switches"]: Destroying... [id=projects/interview-0fbc936c42af9c3e/datasets/interview_data/tables/switches]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["derwin.brennan@rvu.co.uk"]: Destruction complete after 7s
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["derwin.brennan@rvu.co.uk"]: Destroying... [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:derwin.brennan@rvu.co.uk]
+module.interview_hannah.module.bigquery.google_bigquery_table.view["switches"]: Destruction complete after 0s
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["Brendan.Dunn@rvu.co.uk"]: Destroying... [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:brendan.dunn@rvu.co.uk]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["James.Lee@rvu.co.uk"]: Still destroying... [id=projects/interview-0d8aa69afc1b0080/dat...ery.dataOwner/user:james.lee@rvu.co.uk, 10s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["alexander.conor12@gmail.com"]: Still destroying... [id=projects/rvu-interview/datasets/analyst...iewer/user:alexander.conor12@gmail.com, 10s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["alexander.conor12@gmail.com"]: Still destroying... [id=projects/interview-0d8aa69afc1b0080/dat...Owner/user:alexander.conor12@gmail.com, 10s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["hannah.carroll122@gmail.com"]: Still destroying... [id=projects/interview-0fbc936c42af9c3e/dat...Owner/user:hannah.carroll122@gmail.com, 10s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["Brendan.Dunn@rvu.co.uk"]: Still destroying... [id=projects/interview-0d8aa69afc1b0080/dat....dataOwner/user:brendan.dunn@rvu.co.uk, 10s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["hannah.carroll122@gmail.com"]: Still destroying... [id=projects/rvu-interview/datasets/analyst...iewer/user:hannah.carroll122@gmail.com, 10s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["kasia.kowalczyk@rvu.co.uk"]: Still destroying... [id=projects/rvu-interview/datasets/analyst...aViewer/user:kasia.kowalczyk@rvu.co.uk, 10s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["kasia.kowalczyk@rvu.co.uk"]: Still destroying... [id=projects/interview-0fbc936c42af9c3e/dat...taOwner/user:kasia.kowalczyk@rvu.co.uk, 10s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["derwin.brennan@rvu.co.uk"]: Still destroying... [id=projects/rvu-interview/datasets/analyst...taViewer/user:derwin.brennan@rvu.co.uk, 10s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["Brendan.Dunn@rvu.co.uk"]: Still destroying... [id=projects/rvu-interview/datasets/analyst...dataViewer/user:brendan.dunn@rvu.co.uk, 10s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["James.Lee@rvu.co.uk"]: Still destroying... [id=projects/interview-0d8aa69afc1b0080/dat...ery.dataOwner/user:james.lee@rvu.co.uk, 20s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["alexander.conor12@gmail.com"]: Still destroying... [id=projects/rvu-interview/datasets/analyst...iewer/user:alexander.conor12@gmail.com, 20s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["alexander.conor12@gmail.com"]: Still destroying... [id=projects/interview-0d8aa69afc1b0080/dat...Owner/user:alexander.conor12@gmail.com, 20s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["hannah.carroll122@gmail.com"]: Still destroying... [id=projects/interview-0fbc936c42af9c3e/dat...Owner/user:hannah.carroll122@gmail.com, 20s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["Brendan.Dunn@rvu.co.uk"]: Still destroying... [id=projects/interview-0d8aa69afc1b0080/dat....dataOwner/user:brendan.dunn@rvu.co.uk, 20s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["hannah.carroll122@gmail.com"]: Still destroying... [id=projects/rvu-interview/datasets/analyst...iewer/user:hannah.carroll122@gmail.com, 20s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["kasia.kowalczyk@rvu.co.uk"]: Still destroying... [id=projects/rvu-interview/datasets/analyst...aViewer/user:kasia.kowalczyk@rvu.co.uk, 20s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["kasia.kowalczyk@rvu.co.uk"]: Still destroying... [id=projects/interview-0fbc936c42af9c3e/dat...taOwner/user:kasia.kowalczyk@rvu.co.uk, 20s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["derwin.brennan@rvu.co.uk"]: Still destroying... [id=projects/rvu-interview/datasets/analyst...taViewer/user:derwin.brennan@rvu.co.uk, 20s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["Brendan.Dunn@rvu.co.uk"]: Still destroying... [id=projects/rvu-interview/datasets/analyst...dataViewer/user:brendan.dunn@rvu.co.uk, 20s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["James.Lee@rvu.co.uk"]: Still destroying... [id=projects/interview-0d8aa69afc1b0080/dat...ery.dataOwner/user:james.lee@rvu.co.uk, 30s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["alexander.conor12@gmail.com"]: Still destroying... [id=projects/rvu-interview/datasets/analyst...iewer/user:alexander.conor12@gmail.com, 30s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["alexander.conor12@gmail.com"]: Still destroying... [id=projects/interview-0d8aa69afc1b0080/dat...Owner/user:alexander.conor12@gmail.com, 30s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["hannah.carroll122@gmail.com"]: Still destroying... [id=projects/interview-0fbc936c42af9c3e/dat...Owner/user:hannah.carroll122@gmail.com, 30s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["Brendan.Dunn@rvu.co.uk"]: Still destroying... [id=projects/interview-0d8aa69afc1b0080/dat....dataOwner/user:brendan.dunn@rvu.co.uk, 30s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["hannah.carroll122@gmail.com"]: Still destroying... [id=projects/rvu-interview/datasets/analyst...iewer/user:hannah.carroll122@gmail.com, 30s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["kasia.kowalczyk@rvu.co.uk"]: Still destroying... [id=projects/rvu-interview/datasets/analyst...aViewer/user:kasia.kowalczyk@rvu.co.uk, 30s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["kasia.kowalczyk@rvu.co.uk"]: Still destroying... [id=projects/interview-0fbc936c42af9c3e/dat...taOwner/user:kasia.kowalczyk@rvu.co.uk, 30s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["derwin.brennan@rvu.co.uk"]: Still destroying... [id=projects/rvu-interview/datasets/analyst...taViewer/user:derwin.brennan@rvu.co.uk, 30s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["Brendan.Dunn@rvu.co.uk"]: Still destroying... [id=projects/rvu-interview/datasets/analyst...dataViewer/user:brendan.dunn@rvu.co.uk, 30s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["alexander.conor12@gmail.com"]: Destruction complete after 39s
+module.interview_bowale.module.project_creation.google_project.project: Creating...
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["hannah.carroll122@gmail.com"]: Destruction complete after 39s
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["James.Lee@rvu.co.uk"]: Destruction complete after 40s
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["alexander.conor12@gmail.com"]: Still destroying... [id=projects/interview-0d8aa69afc1b0080/dat...Owner/user:alexander.conor12@gmail.com, 40s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["hannah.carroll122@gmail.com"]: Still destroying... [id=projects/interview-0fbc936c42af9c3e/dat...Owner/user:hannah.carroll122@gmail.com, 40s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["kasia.kowalczyk@rvu.co.uk"]: Destruction complete after 40s
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["Brendan.Dunn@rvu.co.uk"]: Still destroying... [id=projects/interview-0d8aa69afc1b0080/dat....dataOwner/user:brendan.dunn@rvu.co.uk, 40s elapsed]
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["alexander.conor12@gmail.com"]: Destruction complete after 40s
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["kasia.kowalczyk@rvu.co.uk"]: Still destroying... [id=projects/interview-0fbc936c42af9c3e/dat...taOwner/user:kasia.kowalczyk@rvu.co.uk, 40s elapsed]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interview_data["derwin.brennan@rvu.co.uk"]: Destruction complete after 33s
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["hannah.carroll122@gmail.com"]: Destruction complete after 41s
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interview_data["Brendan.Dunn@rvu.co.uk"]: Destruction complete after 34s
+module.interview_conor.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["Brendan.Dunn@rvu.co.uk"]: Destruction complete after 41s
+module.interview_conor.module.bigquery.google_bigquery_dataset.dataset: Destroying... [id=projects/interview-0d8aa69afc1b0080/datasets/interview_data]
+module.interview_hannah.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["kasia.kowalczyk@rvu.co.uk"]: Destruction complete after 42s
+module.interview_hannah.module.bigquery.google_bigquery_dataset.dataset: Destroying... [id=projects/interview-0fbc936c42af9c3e/datasets/interview_data]
+module.interview_conor.module.bigquery.google_bigquery_dataset.dataset: Destruction complete after 1s
+module.interview_conor.module.project_creation.google_project_service.iam: Destroying... [id=interview-0d8aa69afc1b0080/iam.googleapis.com]
+module.interview_conor.module.project_creation.google_project_iam_member.job_user["James.Lee@rvu.co.uk"]: Destroying... [id=interview-0d8aa69afc1b0080/roles/bigquery.jobUser/user:james.lee@rvu.co.uk/expires_on_2022-04-26//request.time < timestamp("2022-04-26T00:00:00Z")]
+module.interview_conor.module.project_creation.google_project_iam_member.job_user["alexander.conor12@gmail.com"]: Destroying... [id=interview-0d8aa69afc1b0080/roles/bigquery.jobUser/user:alexander.conor12@gmail.com/expires_on_2022-04-26//request.time < timestamp("2022-04-26T00:00:00Z")]
+module.interview_conor.module.project_creation.google_project_service.bigquery: Destroying... [id=interview-0d8aa69afc1b0080/bigquery.googleapis.com]
+module.interview_conor.module.project_creation.google_project_iam_member.job_user["Brendan.Dunn@rvu.co.uk"]: Destroying... [id=interview-0d8aa69afc1b0080/roles/bigquery.jobUser/user:brendan.dunn@rvu.co.uk/expires_on_2022-04-26//request.time < timestamp("2022-04-26T00:00:00Z")]
+module.interview_hannah.module.bigquery.google_bigquery_dataset.dataset: Destruction complete after 0s
+module.interview_hannah.module.project_creation.google_project_service.bigquery: Destroying... [id=interview-0fbc936c42af9c3e/bigquery.googleapis.com]
+module.interview_hannah.module.project_creation.google_project_iam_member.job_user["kasia.kowalczyk@rvu.co.uk"]: Destroying... [id=interview-0fbc936c42af9c3e/roles/bigquery.jobUser/user:kasia.kowalczyk@rvu.co.uk/expires_on_2022-04-26//request.time < timestamp("2022-04-26T00:00:00Z")]
+module.interview_hannah.module.project_creation.google_project_iam_member.job_user["derwin.brennan@rvu.co.uk"]: Destroying... [id=interview-0fbc936c42af9c3e/roles/bigquery.jobUser/user:derwin.brennan@rvu.co.uk/expires_on_2022-04-26//request.time < timestamp("2022-04-26T00:00:00Z")]
+module.interview_hannah.module.project_creation.google_project_iam_member.job_user["hannah.carroll122@gmail.com"]: Destroying... [id=interview-0fbc936c42af9c3e/roles/bigquery.jobUser/user:hannah.carroll122@gmail.com/expires_on_2022-04-26//request.time < timestamp("2022-04-26T00:00:00Z")]
+module.interview_bowale.module.project_creation.google_project.project: Still creating... [10s elapsed]
+module.interview_conor.module.project_creation.google_project_iam_member.job_user["Brendan.Dunn@rvu.co.uk"]: Destruction complete after 8s
+module.interview_hannah.module.project_creation.google_project_service.iam: Destroying... [id=interview-0fbc936c42af9c3e/iam.googleapis.com]
+module.interview_hannah.module.project_creation.google_project_iam_member.job_user["derwin.brennan@rvu.co.uk"]: Destruction complete after 8s
+module.interview_hannah.module.project_creation.google_project_iam_member.job_user["kasia.kowalczyk@rvu.co.uk"]: Destruction complete after 8s
+module.interview_conor.module.project_creation.google_project_iam_member.job_user["alexander.conor12@gmail.com"]: Destruction complete after 8s
+module.interview_hannah.module.project_creation.google_project_iam_member.job_user["hannah.carroll122@gmail.com"]: Destruction complete after 8s
+module.interview_conor.module.project_creation.google_project_iam_member.job_user["James.Lee@rvu.co.uk"]: Destruction complete after 8s
+module.interview_conor.module.project_creation.google_project_service.iam: Still destroying... [id=interview-0d8aa69afc1b0080/iam.googleapis.com, 10s elapsed]
+module.interview_conor.module.project_creation.google_project_service.bigquery: Still destroying... [id=interview-0d8aa69afc1b0080/bigquery.googleapis.com, 10s elapsed]
+module.interview_conor.module.project_creation.google_project_service.iam: Destruction complete after 10s
+module.interview_hannah.module.project_creation.google_project_service.bigquery: Still destroying... [id=interview-0fbc936c42af9c3e/bigquery.googleapis.com, 10s elapsed]
+module.interview_conor.module.project_creation.google_project_service.bigquery: Destruction complete after 11s
+module.interview_conor.module.project_creation.google_project.project: Destroying... [id=projects/interview-0d8aa69afc1b0080]
+module.interview_hannah.module.project_creation.google_project_service.bigquery: Destruction complete after 11s
+module.interview_conor.module.project_creation.google_project.project: Destruction complete after 2s
+module.interview_conor.module.project_creation.random_id.id: Destroying... [id=DYqmmvwbAIA]
+module.interview_conor.module.project_creation.random_id.id: Destruction complete after 0s
+module.interview_bowale.module.project_creation.google_project.project: Still creating... [20s elapsed]
+module.interview_hannah.module.project_creation.google_project_service.iam: Still destroying... [id=interview-0fbc936c42af9c3e/iam.googleapis.com, 10s elapsed]
+module.interview_hannah.module.project_creation.google_project_service.iam: Destruction complete after 10s
+module.interview_hannah.module.project_creation.google_project.project: Destroying... [id=projects/interview-0fbc936c42af9c3e]
+module.interview_bowale.module.project_creation.google_project.project: Creation complete after 23s [id=projects/interview-5a7850a4ee2c9faa]
+module.interview_bowale.module.project_creation.google_project_iam_member.job_user["musaolabowale@gmail.com"]: Creating...
+module.interview_bowale.module.project_creation.google_project_service.iam: Creating...
+module.interview_bowale.module.project_creation.google_project_iam_member.job_user["derwin.brennan@rvu.co.uk"]: Creating...
+module.interview_bowale.module.project_creation.google_project_service.bigquery: Creating...
+module.interview_bowale.module.project_creation.google_project_iam_member.job_user["james.lee@rvu.co.uk"]: Creating...
+module.interview_hannah.module.project_creation.google_project.project: Destruction complete after 4s
+module.interview_hannah.module.project_creation.random_id.id: Destroying... [id=D7yTbEKvnD4]
+module.interview_hannah.module.project_creation.random_id.id: Destruction complete after 0s
+module.interview_bowale.module.project_creation.google_project_iam_member.job_user["derwin.brennan@rvu.co.uk"]: Creation complete after 10s [id=interview-5a7850a4ee2c9faa/roles/bigquery.jobUser/user:derwin.brennan@rvu.co.uk/expires_on_2022-04-30//request.time < timestamp("2022-04-30T00:00:00Z")]
+module.interview_bowale.module.project_creation.google_project_service.iam: Still creating... [10s elapsed]
+module.interview_bowale.module.project_creation.google_project_iam_member.job_user["musaolabowale@gmail.com"]: Still creating... [10s elapsed]
+module.interview_bowale.module.project_creation.google_project_service.bigquery: Still creating... [10s elapsed]
+module.interview_bowale.module.project_creation.google_project_iam_member.job_user["james.lee@rvu.co.uk"]: Still creating... [10s elapsed]
+module.interview_bowale.module.project_creation.google_project_iam_member.job_user["james.lee@rvu.co.uk"]: Creation complete after 10s [id=interview-5a7850a4ee2c9faa/roles/bigquery.jobUser/user:james.lee@rvu.co.uk/expires_on_2022-04-30//request.time < timestamp("2022-04-30T00:00:00Z")]
+module.interview_bowale.module.project_creation.google_project_iam_member.job_user["musaolabowale@gmail.com"]: Creation complete after 11s [id=interview-5a7850a4ee2c9faa/roles/bigquery.jobUser/user:musaolabowale@gmail.com/expires_on_2022-04-30//request.time < timestamp("2022-04-30T00:00:00Z")]
+module.interview_bowale.module.project_creation.google_project_service.iam: Still creating... [20s elapsed]
+module.interview_bowale.module.project_creation.google_project_service.bigquery: Still creating... [20s elapsed]
+module.interview_bowale.module.project_creation.google_project_service.iam: Creation complete after 21s [id=interview-5a7850a4ee2c9faa/iam.googleapis.com]
+module.interview_bowale.module.project_creation.google_project_service.bigquery: Creation complete after 21s [id=interview-5a7850a4ee2c9faa/bigquery.googleapis.com]
+module.interview_bowale.module.bigquery.google_bigquery_dataset.dataset: Creating...
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interview_data["musaolabowale@gmail.com"]: Creating...
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interview_data["derwin.brennan@rvu.co.uk"]: Creating...
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interview_data["james.lee@rvu.co.uk"]: Creating...
+module.interview_bowale.module.bigquery.google_bigquery_dataset.dataset: Creation complete after 4s [id=projects/interview-5a7850a4ee2c9faa/datasets/interview_data]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["derwin.brennan@rvu.co.uk"]: Creating...
+module.interview_bowale.module.bigquery.google_bigquery_table.view["switches"]: Creating...
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["musaolabowale@gmail.com"]: Creating...
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["james.lee@rvu.co.uk"]: Creating...
+module.interview_bowale.module.bigquery.google_bigquery_table.view["savings"]: Creating...
+module.interview_bowale.module.bigquery.google_bigquery_table.view["sessions"]: Creating...
+module.interview_bowale.module.bigquery.google_bigquery_table.view["savings"]: Creation complete after 2s [id=projects/interview-5a7850a4ee2c9faa/datasets/interview_data/tables/savings]
+module.interview_bowale.module.bigquery.google_bigquery_table.view["sessions"]: Creation complete after 2s [id=projects/interview-5a7850a4ee2c9faa/datasets/interview_data/tables/sessions]
+module.interview_bowale.module.bigquery.google_bigquery_table.view["switches"]: Creation complete after 2s [id=projects/interview-5a7850a4ee2c9faa/datasets/interview_data/tables/switches]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interview_data["derwin.brennan@rvu.co.uk"]: Creation complete after 7s [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:derwin.brennan@rvu.co.uk]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interview_data["musaolabowale@gmail.com"]: Still creating... [10s elapsed]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interview_data["james.lee@rvu.co.uk"]: Still creating... [10s elapsed]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["derwin.brennan@rvu.co.uk"]: Still creating... [10s elapsed]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["musaolabowale@gmail.com"]: Still creating... [10s elapsed]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["james.lee@rvu.co.uk"]: Still creating... [10s elapsed]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["derwin.brennan@rvu.co.uk"]: Creation complete after 13s [id=projects/interview-5a7850a4ee2c9faa/datasets/interview_data/roles/bigquery.dataOwner/user:derwin.brennan@rvu.co.uk]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interview_data["musaolabowale@gmail.com"]: Still creating... [20s elapsed]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interview_data["james.lee@rvu.co.uk"]: Still creating... [20s elapsed]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interview_data["james.lee@rvu.co.uk"]: Creation complete after 21s [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:james.lee@rvu.co.uk]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interview_data["musaolabowale@gmail.com"]: Creation complete after 21s [id=projects/rvu-interview/datasets/analyst_interview_data/roles/bigquery.dataViewer/user:musaolabowale@gmail.com]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["james.lee@rvu.co.uk"]: Still creating... [20s elapsed]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["musaolabowale@gmail.com"]: Still creating... [20s elapsed]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["james.lee@rvu.co.uk"]: Still creating... [30s elapsed]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["musaolabowale@gmail.com"]: Still creating... [30s elapsed]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["musaolabowale@gmail.com"]: Creation complete after 32s [id=projects/interview-5a7850a4ee2c9faa/datasets/interview_data/roles/bigquery.dataOwner/user:musaolabowale@gmail.com]
+module.interview_bowale.module.bigquery.google_bigquery_dataset_iam_member.interviewee_data["james.lee@rvu.co.uk"]: Creation complete after 32s [id=projects/interview-5a7850a4ee2c9faa/datasets/interview_data/roles/bigquery.dataOwner/user:james.lee@rvu.co.uk]
+
+Apply complete! Resources: 17 added, 0 changed, 34 destroyed.
+::debug::Terraform exited with code 0.
+
