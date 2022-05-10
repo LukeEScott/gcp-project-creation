@@ -10,7 +10,7 @@ jobs:
     env:
       TF_VAR_billing_account : ${{ secrets.BILLING_ACCOUNT }}
     steps:
-    
+
       - uses: actions/github-script@v3
         if: github.event_name == 'push'
         env:
@@ -20,7 +20,7 @@ jobs:
           script: |
             PROJECT=$(echo $APPLY | grep "module.project_creation.google_project.project: Creation complete" | grep -o 'interview-.*') 
             Project ID: $PROJECT
-            BigQuery: https://console.cloud.google.com/bigquery?project=${PROJECT}
+            BigQuery: https://console.cloud.google.com/bigquery?project=${PROJECT};
 
             github.issues.createComment({
               issue_number: context.issue.number,
