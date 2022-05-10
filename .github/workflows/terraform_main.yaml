@@ -18,9 +18,9 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            PROJECT=$(echo $APPLY | grep "module.project_creation.google_project.project: Creation complete" | grep -o 'interview-.*') 
-            Project ID: $PROJECT
-            BigQuery: https://console.cloud.google.com/bigquery?project=${PROJECT};
+            PROJECT=`$(echo $APPLY | grep "module.project_creation.google_project.project: Creation complete" | grep -o 'interview-.*')\`
+            Project ID: $PROJECT\`
+            BigQuery: https://console.cloud.google.com/bigquery?project=${PROJECT}`;
 
             github.issues.createComment({
               issue_number: context.issue.number,
