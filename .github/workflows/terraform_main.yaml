@@ -15,7 +15,7 @@ jobs:
         if: github.event_name == 'push'
         env:
           APPLY: "module.project_creation.google_project.project: Creation complete after 23s [id=projects/interview-73c6536fda778a65]"
-          PROJECT: $(echo $APPLY | grep "module.project_creation.google_project.project: Creation complete" | grep -o 'interview-.*')
+          PROJECT: "$(echo $APPLY | grep "module.project_creation.google_project.project: Creation complete" | grep -o 'interview-.*')"
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
