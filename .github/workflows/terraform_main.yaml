@@ -37,11 +37,21 @@ jobs:
         run: terraform apply -auto-approve -lock-timeout=60s
 
       - uses: actions/github-script@v3
-        if: github.event_name == 'pull_request'
+        if: github.event_name == 'push'
         env:
-          APPLY: "terraform\n${{ steps.apply.outputs.stdout }}"
+          APPLY: "module.project_creation.google_project.project: Creation complete after 23s [id=projects/interview-73c6536fda778a65]"
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            echo $APPLY | grep "module.project_creation.google_project.project: Creation complete" | grep -o 'interview-.*'
+            PROJECT=$(echo $APPLY | grep "module.project_creation.google_project.project: Creation complete" | grep -o 'interview-.*') 
+            Project ID: $PROJECT
+            BigQuery: https://console.cloud.google.com/bigquery?project=${PROJECT}
+
+            github.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: output
+            })
+            
         
