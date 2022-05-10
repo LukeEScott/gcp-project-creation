@@ -18,7 +18,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            var PROJECT = `$(echo $APPLY | grep "module.project_creation.google_project.project: Creation complete" | grep -o 'interview-.*')\`
+            const output = var PROJECT = `$(echo $APPLY | grep "module.project_creation.google_project.project: Creation complete" | grep -o 'interview-.*')\`
             Project ID: ${PROJECT}\`
             BigQuery: https://console.cloud.google.com/bigquery?project=${PROJECT}`;
 
