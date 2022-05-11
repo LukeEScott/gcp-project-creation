@@ -17,13 +17,9 @@ jobs:
           APPLY: "module.project_creation.google_project.project: Creation complete after 23s [id=projects/interview-73c6536fda778a65]"
         with:
           script: |
-            const output =  echo $APPLY | grep "module.project_creation.google_project.project: Creation complete" | grep -o 'interview-.*'\`
-            
-            github.issues.createComment({
+            github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: output
+              body: '👋 Thanks for reporting!'
             })
-            
-        
